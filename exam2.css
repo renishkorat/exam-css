@@ -53,20 +53,6 @@ body{
      font-weight: bold;
 } 
 
-.service{
-    padding: 60px 20px;
-    text-align: center;
-}
-
-.ba h1{
-    font-size: 40px;
-    margin-bottom: 10px;
-}
-
-.ba p{
-    color: #777;
-    margin-bottom: 40px;
-}
 
 .service{
     padding: 60px 20px;
@@ -119,6 +105,10 @@ body{
     margin:auto;
     display:flex;
     gap:50px;
+}
+
+.portfolio h2,p{
+    text-align: center;
 }
 
 .menu{
@@ -218,8 +208,9 @@ body{
 
 .contact-section{
     background-color: gray;
-    width: 100%;
-    padding: 40px 20px;
+    width: 95%;
+    padding: 40px 40px;
+
     display: flex;
     justify-content: center;
     gap: 80px;
