@@ -140,6 +140,7 @@ body{
 .gallery img{
     width:30%;
     display:block;
+    border-radius: 5px;
 }
 
 .pr{
@@ -206,7 +207,7 @@ body{
     font-weight:bold;
 }
 
-.contact-section{
+.contact{
     background-color: gray;
     width: 95%;
     padding: 40px 40px;
